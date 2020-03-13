@@ -1,0 +1,118 @@
+digraph {
+	A [label=A]
+	B [label=B]
+	C [label=C]
+	D [label=D]
+	E [label=E]
+	F [label=F]
+	G [label=G]
+	H [label=H]
+	I [label=I]
+	J [label=J]
+	K [label=K]
+	M [label=M]
+	N [label=N]
+	O [label=O]
+	P [label=P]
+	Q [label=Q]
+	S [label=S]
+	T [label=T]
+	U [label=U]
+	V [label=V]
+	W [label=W]
+	X [label=X]
+	Y [label=Y]
+	Z [label=Z]
+	A -> B
+	A -> J
+	A -> Y
+	B -> I
+	B -> J
+	B -> Q
+	B -> S
+	B -> U
+	B -> Y
+	C -> B
+	C -> E
+	C -> N
+	C -> Q
+	C -> S
+	C -> U
+	C -> Y
+	D -> J
+	D -> Q
+	D -> Y
+	E -> M
+	F -> C
+	F -> D
+	F -> E
+	F -> I
+	F -> S
+	G -> D
+	G -> H
+	G -> I
+	G -> M
+	G -> O
+	G -> Q
+	G -> W
+	G -> Y
+	H -> E
+	H -> J
+	H -> K
+	H -> N
+	I -> D
+	I -> J
+	I -> Q
+	I -> Y
+	J -> Y
+	K -> B
+	K -> E
+	K -> U
+	K -> W
+	M -> J
+	M -> Q
+	M -> U
+	M -> Y
+	N -> B
+	N -> D
+	N -> J
+	N -> X
+	O -> D
+	O -> J
+	O -> S
+	O -> Y
+	P -> E
+	P -> F
+	P -> I
+	P -> N
+	P -> Y
+	Q -> Y
+	S -> D
+	S -> J
+	S -> Q
+	S -> Y
+	T -> B
+	T -> K
+	T -> U
+	T -> X
+	U -> D
+	U -> J
+	U -> Q
+	U -> Y
+	V -> O
+	V -> U
+	W -> B
+	W -> E
+	W -> M
+	W -> N
+	W -> X
+	X -> D
+	X -> I
+	X -> M
+	X -> S
+	Z -> D
+	Z -> M
+	Z -> O
+	Z -> S
+	Z -> T
+}
